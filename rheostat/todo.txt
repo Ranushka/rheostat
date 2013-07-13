@@ -1,0 +1,8 @@
+set footer base_url done
+add ajax upload js ftr done
+and econtent.s ftr done
+econtent controler remove doen
+content modul upates
+remove baseurl in manageContent.php
+rack number and status interface
+
